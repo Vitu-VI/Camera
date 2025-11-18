@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="camera_video_feed">Feed de vídeo da câmera</string>
+</resources>
